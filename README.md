@@ -1,109 +1,92 @@
-# 👋 Welcome! I'm Mohammed Al Rashadi
 
-**Software Engineering Student | Building & Learning in Public**
+<!-- 🌌 GitHub Profile Banner -->
+<p align="center">
+  <img src="https://github.com/mohamedalrashadi/mohamedalrashadi/blob/main/github-header-banner.png" />
+</p>
 
-I'm on a mission to master software development through hands-on practice. This GitHub is my digital workshop—where I solve problems, build projects, and document my journey from student to professional developer.
+# 👋 Hi, I'm **Mohammed Al Rashadi**
+
+**💻 Software Engineering Student | Exploring AI, Security & Modern Web Tech**
+
+I learn by building. This GitHub is my digital lab — where I experiment, code, and grow into a better software engineer every day.
 
 ---
 
-## 🚀 What I'm Building With
+## 🚀 Tech Stack
 
-```
-Java  ☕  |  C++  ⚡  |  JavaScript  🌐  |  Python  🐍
-```
 
-**Focus Areas:**
-- 💡 Data Structures & Algorithms
-- 🔐 Cybersecurity Fundamentals
+**Focus Areas**
 - 🤖 Artificial Intelligence & Machine Learning
+- 🔐 Cybersecurity
+- 💡 Data Structures & Algorithms
 - 🌐 Modern Web Development
 
 ---
 
-## 📂 My Learning Repositories
-
-### **☕ [Java](https://github.com/mohamedalrashadi/Java)**
-Object-oriented programming, data structures, and algorithmic problem-solving in Java.
-
-### **⚡ [C++](https://github.com/mohamedalrashadi/Cpp)**
-Systems programming, competitive coding, and performance-focused implementations.
-
-### **🌐 [JavaScript](https://github.com/mohamedalrashadi/Javascript)**
-Web development, DOM manipulation, and building interactive frontend experiences.
-
-### **🐍 [Python](https://github.com/mohamedalrashadi/Python)**
-Scripting, automation, AI/ML experiments, and rapid prototyping.
+## 📂 Featured Repositories
+- ☕ [**Java**](https://github.com/mohamedalrashadi/Java) – Object-oriented programming and algorithmic problem-solving
+- ⚡ [**C++**](https://github.com/mohamedalrashadi/Cpp) – Systems programming and performance optimization
+- 🌐 [**JavaScript**](https://github.com/mohamedalrashadi/Javascript) – Frontend logic and interactive web apps
+- 🐍 [**Python**](https://github.com/mohamedalrashadi/Python) – AI/ML projects, scripting, and automation
 
 ---
 
-## 🎯 Current Goals
-
-✅ Solve **300+ algorithmic problems** across multiple platforms  
-✅ Build **practical projects** in every language I learn  
-✅ Contribute to **open-source** and collaborate with developers  
-✅ Master **design patterns** and software engineering best practices  
-✅ Share knowledge through **clean code** and detailed documentation
+## 🎯 Goals
+- 🚀 Build practical projects across languages
+- 🧩 Solve 300+ algorithmic problems
+- 🛠️ Contribute to open-source projects
+- 🧠 Master clean code and software design
 
 ---
 
-## 💻 Why I Code in Public
+## 💡 Philosophy
+> *“The best way to learn is to build, share, and improve.”*
 
-I believe the best way to learn is by doing—and sharing that journey with others. Every commit here represents:
-- A problem solved
-- A concept understood
-- A skill improved
-- A step closer to becoming a professional developer
-
-**My approach:** Build. Learn. Document. Repeat.
+Each line of code represents progress — a new skill, a solved problem, or a creative idea.  
+**Build → Learn → Share → Repeat**
 
 ---
 
-## 🌟 Let's Connect & Collaborate
-
-Whether you're a fellow student, an experienced developer, or just curious about code—you're welcome here!
-
-- 🤝 Open to **collaboration** on projects
-- 💬 Happy to discuss **code, tech, and learning strategies**
-- 📖 Always eager to **learn from the community**
-- ✨ Feel free to **explore, fork, and contribute**
-
----
-
-## 📊 Progress Tracker
-
-```
-🔥 Active Learning Streak: Daily commits
-📈 Problems Solved: Growing every day
-🚀 Projects Built: Check the repositories
-💡 Concepts Mastered: One at a time
-```
-
----
-
-## 🎓 For Students & Learners
-
-If you're also learning to code, feel free to:
-- Browse my solutions for reference (but always try solving first!)
-- Suggest improvements or alternative approaches
-- Share your own learning journey
-- Let's grow together as developers
-
----
-
-> **"The only way to learn programming is by writing programs."** — Dennis Ritchie
+## 🌟 Connect
+I’m open to collaboration and learning from others.
+- 🤝 Projects & teamwork
+- 💬 Tech, AI, and learning discussions
+- 🌍 Based in **Oman**
 
 ---
 
 <div align="center">
 
-### 💻 Building the future, one line of code at a time
-
-**📍 Based in Oman | 🎓 Software Engineering Student**
-
-*⭐ Star the repos if you find them helpful | 🔄 Follow for consistent updates*
+### 💻 Building the Future, One Line of Code at a Time
+⭐ *Star the repos you like* • 🔄 *Follow for updates*
 
 </div>
 
 ---
 
-**Last Updated:** October 2025
+**Last Updated:** *October 2025*
+
+---
+
+## 🎨 Branding Style Guide (for GitHub Logo & Banner)
+
+**Theme:** Clean • Minimal • Futuristic • Developer-focused
+
+**Color Palette:**
+- 🩵 **Cyan / Electric Blue** — for tech & AI energy
+- ⚫ **Dark Gray / Charcoal** — modern and professional
+- ⚪ **White** — clean background
+- 💜 *(Optional)* Accent for creativity or subtle gradient
+
+**Font Style:**
+- *Inter*, *Poppins*, or *JetBrains Mono* (clean, modern, slightly bold)
+
+**Logo Concept:**
+- Monogram: **M A R** or **M•A•R**
+- Circular shape (fits GitHub avatar)
+- Minimal symbols: `{}`, 🤖, or 🌌 to reflect coding, AI, and future
+- Use geometric lines or orbit effect for creative depth
+
+---
+
+> *Design identity: Clean • Confident • Modern • Focused on the Future*
