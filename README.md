@@ -68,25 +68,4 @@ I’m open to collaboration and learning from others.
 
 ---
 
-## 🎨 Branding Style Guide (for GitHub Logo & Banner)
-
-**Theme:** Clean • Minimal • Futuristic • Developer-focused
-
-**Color Palette:**
-- 🩵 **Cyan / Electric Blue** — for tech & AI energy
-- ⚫ **Dark Gray / Charcoal** — modern and professional
-- ⚪ **White** — clean background
-- 💜 *(Optional)* Accent for creativity or subtle gradient
-
-**Font Style:**
-- *Inter*, *Poppins*, or *JetBrains Mono* (clean, modern, slightly bold)
-
-**Logo Concept:**
-- Monogram: **M A R** or **M•A•R**
-- Circular shape (fits GitHub avatar)
-- Minimal symbols: `{}`, 🤖, or 🌌 to reflect coding, AI, and future
-- Use geometric lines or orbit effect for creative depth
-
----
-
 > *Design identity: Clean • Confident • Modern • Focused on the Future*
