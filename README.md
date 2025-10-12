@@ -21,13 +21,17 @@
 ## 🎯 **About Me**
 
 ```javascript
-const mohammed = {
-    location: "Oman 🇴🇲",
-    education: "Software Engineering Student",
-    interests: ["AI & Machine Learning", "Cybersecurity", "Web Development", "DSA"],
-    currentFocus: "Building practical projects & mastering problem-solving",
-    goals2025: ["300+ LeetCode problems", "Open-source contributions", "Full-stack mastery"],
-    funFact: "I debug faster with coffee ☕"
+const developer = {
+    role: "Software Engineering Student",
+    specialization: ["Artificial Intelligence", "Cybersecurity", "Full-Stack Development"],
+    currentFocus: "Building scalable solutions & mastering algorithmic thinking",
+    learning: ["Machine Learning Algorithms", "System Design", "Advanced DSA"],
+    goals2025: {
+        problemSolving: "300+ algorithmic challenges",
+        openSource: "Active contributions to impactful projects",
+        expertise: "Production-ready full-stack applications"
+    },
+    mindset: "Write clean code. Build with purpose. Ship with confidence."
 };
 ```
 
