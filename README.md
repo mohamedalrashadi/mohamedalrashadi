@@ -11,25 +11,19 @@ I learn by building. This GitHub is my digital lab — where I experiment, code,
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedalrashadi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedalrashadi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohamedalrashadi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true&hide=contribs" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedalrashadi&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedalrashadi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-</div>
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedalrashadi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Most Used Languages" />
 
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedalrashadi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-  
 </div>
 
 ---
@@ -58,32 +52,22 @@ I learn by building. This GitHub is my digital lab — where I experiment, code,
 
 <div align="center">
 
-[![Java Repo](https://github-readme-stats.vercel.app/api/pin/?username=mohamedalrashadi&repo=Java&theme=tokyonight&hide_border=true)](https://github.com/mohamedalrashadi/Java)
-[![C++ Repo](https://github-readme-stats.vercel.app/api/pin/?username=mohamedalrashadi&repo=Cpp&theme=tokyonight&hide_border=true)](https://github.com/mohamedalrashadi/Cpp)
+[![Java Repo](https://github-readme-stats.vercel.app/api/pin/?username=mohamedalrashadi&repo=Java&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/mohamedalrashadi/Java)
+[![C++ Repo](https://github-readme-stats.vercel.app/api/pin/?username=mohamedalrashadi&repo=Cpp&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/mohamedalrashadi/Cpp)
 
-[![JavaScript Repo](https://github-readme-stats.vercel.app/api/pin/?username=mohamedalrashadi&repo=Javascript&theme=tokyonight&hide_border=true)](https://github.com/mohamedalrashadi/Javascript)
-[![Python Repo](https://github-readme-stats.vercel.app/api/pin/?username=mohamedalrashadi&repo=Python&theme=tokyonight&hide_border=true)](https://github.com/mohamedalrashadi/Python)
+[![JavaScript Repo](https://github-readme-stats.vercel.app/api/pin/?username=mohamedalrashadi&repo=Javascript&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/mohamedalrashadi/Javascript)
+[![Python Repo](https://github-readme-stats.vercel.app/api/pin/?username=mohamedalrashadi&repo=Python&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/mohamedalrashadi/Python)
 
 </div>
 
 ---
 
-## 🎯 Goals & Progress
+## 🎯 Goals
 
-- [x] 🚀 Build practical projects across multiple languages
-- [ ] 🧩 Solve 300+ algorithmic problems (In Progress)
-- [ ] 🛠️ Contribute to open-source projects
-- [ ] 🧠 Master clean code and software design patterns
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedalrashadi&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-  
-</div>
+- 🚀 Build practical projects across languages
+- 🧩 Solve 300+ algorithmic problems
+- 🛠️ Contribute to open-source projects
+- 🧠 Master clean code and software design
 
 ---
 
@@ -96,7 +80,7 @@ Each line of code represents progress — a new skill, a solved problem, or a cr
 
 ---
 
-## 🌟 Connect With Me
+## 🌟 Connect
 
 <div align="center">
 
@@ -106,7 +90,7 @@ Each line of code represents progress — a new skill, a solved problem, or a cr
 
 </div>
 
-**Open to:**
+I'm open to collaboration and learning from others.
 - 🤝 Projects & teamwork
 - 💬 Tech, AI, and learning discussions
 - 🌍 Based in **Oman**
@@ -117,7 +101,7 @@ Each line of code represents progress — a new skill, a solved problem, or a cr
 
 ### 💻 Building the Future, One Line of Code at a Time
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohamedalrashadi&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=mohamedalrashadi&color=0891b2&style=flat-square&label=Profile+Views)
 
 ⭐ *Star the repos you like* • 🔄 *Follow for updates*
 
