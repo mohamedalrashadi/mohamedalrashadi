@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <em>Turning ideas into code. Learning by building. Growing every single day.</em>
+  <em>I learn by building. This GitHub is my digital lab — where I experiment, code, and grow into a better software engineer every day.</em>
 </p>
 
 <p align="center">
@@ -51,47 +51,53 @@ const developer = {
 
 ---
 
-## 💻 **Tech Arsenal**
+## 🚀 **Tech Stack**
 
 <div align="center">
 
-**Languages**
+### Languages & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Core Competencies**
+### Focus Areas
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=spring-security&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-4285F4?style=for-the-badge&logo=thealgorithms&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full_Stack-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+🤖 **Artificial Intelligence & Machine Learning**  
+🔐 **Cybersecurity**  
+💡 **Data Structures & Algorithms**  
+🌐 **Modern Web Development**
 
 </div>
 
 ---
 
-## 🚀 **Featured Projects**
+## 📂 **Featured Projects**
 
 <div align="center">
   <a href="https://github.com/mohamedalrashadi/Java">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedalrashadi&repo=Java&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedalrashadi&repo=Java&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&description_lines_count=2" />
   </a>
   <a href="https://github.com/mohamedalrashadi/Cpp">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedalrashadi&repo=Cpp&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedalrashadi&repo=Cpp&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&description_lines_count=2" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/mohamedalrashadi/Python">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedalrashadi&repo=Python&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedalrashadi&repo=Python&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&description_lines_count=2" />
   </a>
   <a href="https://github.com/mohamedalrashadi/Javascript">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedalrashadi&repo=Javascript&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedalrashadi&repo=Javascript&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&description_lines_count=2" />
   </a>
 </div>
+
+**Repository Highlights:**
+- ☕ **Java** – Object-oriented programming and algorithmic problem-solving
+- ⚡ **C++** – Systems programming and performance optimization
+- 🐍 **Python** – AI/ML projects, scripting, and automation
+- 🌐 **JavaScript** – Frontend logic and interactive web applications
 
 ---
 
@@ -111,17 +117,19 @@ const developer = {
 
 ---
 
-## 💭 **Philosophy**
+## 💡 **Philosophy**
 
 <div align="center">
+
+> *"The best way to learn is to build, share, and improve."*
+
+Each line of code represents progress — a new skill, a solved problem, or a creative idea.
 
 ```diff
 + Build → Learn → Share → Repeat
 ```
 
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-**Every line of code is a step forward. Every bug is a lesson. Every project is growth.**
+**Write clean code. Build with purpose. Ship with confidence.**
 
 </div>
 
@@ -134,10 +142,9 @@ const developer = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedalrashadi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
 **Open for:**
-💼 Internships & Collaborations • 🧠 Tech Discussions • 🚀 Open Source Projects
+💼 Projects & Teamwork • 🧠 Tech & AI Discussions • 🚀 Collaboration Opportunities
 
 </div>
 
@@ -145,23 +152,22 @@ const developer = {
 
 <div align="center">
 
-### ⚡ **Activity Timeline**
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mohamedalrashadi&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact" alt="WakaTime Stats" />
-
----
-
-### 💡 **Random Dev Quote**
+### 💻 **Building the Future, One Line of Code at a Time**
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-**⭐ Star my repos if you find them interesting** • **🔔 Follow for updates** • **💬 Let's build something amazing together**
+**⭐ Star the repos you like** • **🔄 Follow for updates** • **💬 Let's build something amazing**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" />
 
 </div>
+
+---
+
+**Last Updated:** *October 2025*
+
+---
+
+> *Design identity: Clean • Confident • Modern • Focused on the Future*
