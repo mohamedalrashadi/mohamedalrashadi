@@ -40,14 +40,17 @@ const developer = {
 ## 📊 **GitHub Analytics**
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohamedalrashadi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=58A6FF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohamedalrashadi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=58A6FF&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=mohamedalrashadi&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedalrashadi&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6&hide=html,css" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedalrashadi&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6&hide=html,css&cache_seconds=1800" alt="Top Languages" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedalrashadi&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB&height=180" alt="Contribution Graph" />
 </p>
+
+<!-- Force refresh: Add ?v=TIMESTAMP to images when you want immediate update -->
+<!-- Example: Add &v=20241012 to any stat URL above -->
 
 ---
 
@@ -215,8 +218,8 @@ Each line of code represents progress — a new skill, a solved problem, or a cr
 
 ---
 
-
+**Last Updated:** *October 2025*
 
 ---
 
-
+> *Design identity: Clean • Confident • Modern • Focused on the Future*
