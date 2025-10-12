@@ -101,19 +101,68 @@ const developer = {
 
 ---
 
-## 🎯 **2025 Roadmap**
+## 🎯 **Current Focus & Expertise**
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Goal | Status | Progress |
-|------|--------|----------|
-| 🧩 **300+ DSA Problems** | 🔄 In Progress | ![Progress](https://progress-bar.dev/45/?title=135/300&width=200&color=58A6FF) |
-| 🤖 **AI/ML Projects** | 🔄 In Progress | ![Progress](https://progress-bar.dev/30/?title=Building&width=200&color=1F6FEB) |
-| 🌐 **Full-Stack Apps** | 🔄 In Progress | ![Progress](https://progress-bar.dev/60/?title=Active&width=200&color=58A6FF) |
-| 🔐 **Security Certifications** | 📅 Planned | ![Progress](https://progress-bar.dev/15/?title=Learning&width=200&color=8B949E) |
-| 🛠️ **Open Source Contributions** | 📅 Planned | ![Progress](https://progress-bar.dev/10/?title=Started&width=200&color=8B949E) |
+### 💻 **Software Development**
+- **Object-Oriented Design** – Building scalable, maintainable systems using design patterns and SOLID principles
+- **Algorithm Optimization** – Implementing efficient solutions with focus on time/space complexity analysis
+- **Clean Code Practices** – Writing readable, testable, and production-ready code
+- **Version Control** – Git workflows, branching strategies, and collaborative development
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+### 🤖 **Artificial Intelligence**
+- **Machine Learning** – Supervised/unsupervised learning, model training and evaluation
+- **Deep Learning** – Neural networks, CNNs, and modern architectures
+- **Natural Language Processing** – Text processing, sentiment analysis, and language models
+- **Computer Vision** – Image processing, object detection, and classification
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 **Cybersecurity**
+- **Security Fundamentals** – Understanding threat models, vulnerabilities, and attack vectors
+- **Secure Coding** – Input validation, authentication, authorization, and data protection
+- **Network Security** – Protocols, encryption, and secure communication
+- **Ethical Hacking** – Penetration testing methodologies and defensive strategies
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 **Web Development**
+- **Frontend Technologies** – Modern JavaScript frameworks, responsive design, and UI/UX principles
+- **Backend Systems** – RESTful APIs, database design, and server-side logic
+- **Full-Stack Architecture** – End-to-end application development and deployment
+- **DevOps Basics** – CI/CD pipelines, containerization, and cloud platforms
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 **Continuous Learning**
+
+```yaml
+Current_Learning:
+  - Advanced Data Structures & Algorithms
+  - System Design & Architecture Patterns
+  - Cloud Computing (AWS/Azure)
+  - Competitive Programming Techniques
+
+Next_Goals:
+  - Contribute to major open-source projects
+  - Build production-grade AI applications
+  - Achieve cybersecurity certifications
+  - Master distributed systems design
+```
 
 ---
 
