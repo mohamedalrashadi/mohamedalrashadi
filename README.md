@@ -20,18 +20,13 @@
 
 ## 🎯 **About Me**
 
-```javascript
-const developer = {
-    role: "Software Engineering Student",
-    specialization: ["Artificial Intelligence", "Cybersecurity", "Full-Stack Development"],
-    currentFocus: "Building scalable solutions & mastering algorithmic thinking",
-    learning: ["Machine Learning Algorithms", "System Design", "Advanced DSA"],
-    goals2025: {
-        problemSolving: "300+ algorithmic challenges",
-        openSource: "Active contributions to impactful projects",
-        expertise: "Production-ready full-stack applications"
-    },
-    mindset: "Write clean code. Build with purpose. Ship with confidence."
+```typescript
+const dev = {
+    student: "Software Engineering",
+    focus: ["AI", "Security", "Full-Stack"],
+    building: "Scalable solutions",
+    learning: "System Design & Advanced Algorithms",
+    mission: "Code with purpose. Ship with impact."
 };
 ```
 
