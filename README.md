@@ -19,6 +19,46 @@
 
 ---
 
+## 🎮 **Interactive Fun**
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
+
+<br><br>
+
+### 🐍 **Play Snake - Eat My Contributions!**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedalrashadi/mohamedalrashadi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedalrashadi/mohamedalrashadi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohamedalrashadi/mohamedalrashadi/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br><br>
+
+### 🎯 **Test Your Luck - Daily Random Joke**
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+</div>
+
+<br>
+
+### 🎲 **Random Dev Meme**
+
+<div align="center">
+  <img src="https://random-memer.herokuapp.com/" width="512px" alt="Meme" />
+</div>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+</div>
+
+---
+
 ## 💼 **Professional Profile**
 
 ```typescript
