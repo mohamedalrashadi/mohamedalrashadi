@@ -120,44 +120,52 @@ const engineer = {
 
 ---
 
-## 🎯 **Core Competencies**
+## 🎯 **Development Focus**
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💻 **Software Engineering**
+### 💻 **Software Development**
+<img align="right" alt="Coding" width="100" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-**Enterprise-Grade Development**
-- **System Architecture** – Designing scalable microservices and distributed systems
-- **Design Patterns** – Implementing Gang of Four patterns, SOLID principles, and clean architecture
-- **Algorithm Engineering** – Optimizing for time/space complexity, performance tuning
-- **Code Quality** – TDD, CI/CD, code reviews, and automated testing
-- **API Development** – RESTful services, GraphQL, WebSockets
-- **Database Design** – Normalization, indexing, query optimization, ORM frameworks
+**Building Strong Foundations**
+- 🔹 **Programming Fundamentals** – Mastering syntax, logic, and problem-solving
+- 🔹 **Data Structures** – Arrays, linked lists, stacks, queues, trees, graphs
+- 🔹 **Algorithms** – Sorting, searching, recursion, dynamic programming
+- 🔹 **OOP Principles** – Encapsulation, inheritance, polymorphism
+- 🔹 **Design Patterns** – Learning industry-standard solutions
+- 🔹 **Version Control** – Git workflows and collaborative development
 
-**Technical Leadership**
-- Architecture decisions and technical documentation
-- Code review and mentoring junior developers
-- Agile/Scrum methodologies and sprint planning
+**Current Projects**
+- Building algorithmic problem-solving skills
+- Creating clean, maintainable code
+- Understanding software architecture patterns
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 **Artificial Intelligence & Machine Learning**
+### 🤖 **Artificial Intelligence**
+<img align="right" alt="AI" width="100" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-**ML Engineering**
-- **Supervised Learning** – Classification, regression, ensemble methods
-- **Deep Learning** – CNNs, RNNs, Transformers, transfer learning
-- **NLP** – Text classification, sentiment analysis, language models, embeddings
-- **Computer Vision** – Object detection, image segmentation, facial recognition
-- **Model Deployment** – MLOps, model serving, A/B testing, monitoring
-- **Data Engineering** – ETL pipelines, feature engineering, data preprocessing
+**Exploring Machine Learning**
+- 🔹 **Python for AI** – NumPy, Pandas, data manipulation
+- 🔹 **ML Algorithms** – Linear regression, decision trees, clustering
+- 🔹 **Neural Networks** – Understanding deep learning fundamentals
+- 🔹 **Data Science** – Data analysis, visualization, insights
+- 🔹 **AI Libraries** – Exploring TensorFlow and scikit-learn
+- 🔹 **Model Training** – Learning supervised and unsupervised learning
 
-**Frameworks & Tools**
-- TensorFlow, PyTorch, Keras for model development
-- Scikit-learn for classical ML algorithms
-- Hugging Face for state-of-the-art NLP models
+**Learning Path**
+- Completing ML courses and tutorials
+- Building small AI models and experiments
+- Understanding AI ethics and responsible AI
 
 </td>
 </tr>
@@ -165,56 +173,90 @@ const engineer = {
 <td width="50%" valign="top">
 
 ### 🔐 **Cybersecurity**
+<img align="right" alt="Security" width="100" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif">
 
-**Security Engineering**
-- **Application Security** – OWASP Top 10, secure coding practices, code analysis
-- **Penetration Testing** – Network scanning, vulnerability assessment, exploitation
-- **Cryptography** – Symmetric/asymmetric encryption, hashing, digital signatures
-- **Network Security** – Firewalls, IDS/IPS, VPN, SSL/TLS implementation
-- **Security Auditing** – Compliance (ISO 27001, GDPR), risk assessment
-- **Incident Response** – Threat detection, forensics, remediation strategies
+**Learning Security Principles**
+- 🔹 **Security Basics** – Understanding threats and vulnerabilities
+- 🔹 **Secure Coding** – Writing code resistant to common attacks
+- 🔹 **Cryptography** – Encryption, hashing, and digital signatures
+- 🔹 **Network Security** – Protocols, firewalls, and secure communication
+- 🔹 **Ethical Hacking** – Learning penetration testing basics
+- 🔹 **Security Tools** – Exploring industry-standard tools
 
-**Security Tools**
-- Metasploit, Burp Suite, Wireshark, Nmap
-- SIEM platforms and security automation
-- Container security (Docker, Kubernetes)
+**Security Journey**
+- Studying OWASP Top 10 vulnerabilities
+- Learning about security best practices
+- Understanding risk assessment and mitigation
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 **Full-Stack Development**
+### 🌐 **Web Development**
+<img align="right" alt="Web Dev" width="100" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif">
 
-**Frontend Excellence**
-- **Modern Frameworks** – React, Vue.js, Next.js for SPAs
-- **Responsive Design** – Mobile-first approach, CSS Grid/Flexbox, Tailwind CSS
-- **State Management** – Redux, Context API, Zustand
-- **Performance** – Code splitting, lazy loading, optimization techniques
-- **Testing** – Jest, React Testing Library, E2E testing
+**Mastering Full-Stack Skills**
+- 🔹 **HTML5 & CSS3** – Semantic markup, modern styling, animations
+- 🔹 **JavaScript** – ES6+, DOM manipulation, async programming
+- 🔹 **Responsive Design** – Mobile-first, Flexbox, Grid layouts
+- 🔹 **Frontend Frameworks** – Learning React and modern tools
+- 🔹 **Backend Development** – Node.js, Express, REST APIs
+- 🔹 **Databases** – SQL and NoSQL database fundamentals
 
-**Backend Mastery**
-- **Node.js Ecosystem** – Express, NestJS, real-time applications
-- **Java Enterprise** – Spring Boot, Hibernate, microservices
-- **Database Systems** – SQL (PostgreSQL, MySQL), NoSQL (MongoDB, Redis)
-- **Cloud Deployment** – AWS, Azure, containerization with Docker
-- **DevOps** – CI/CD pipelines, monitoring, logging, Kubernetes
+**Web Projects**
+- Creating responsive, interactive websites
+- Building full-stack applications
+- Learning modern development workflows
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+**🚀 Continuously Learning • 💡 Building Projects • 📈 Growing Skills**
+
+</div>
+
 ---
 
-## 🏆 **Professional Achievements**
+## 🏆 **Learning Journey & Achievements**
 
 <div align="center">
 
-```diff
-+ 500+ Problems Solved across LeetCode, HackerRank, Codeforces
-+ 50+ Production-Grade Projects delivered
-+ 10+ Open-Source Contributions to major repositories
-+ Expert-Level Algorithmic Problem Solver
-+ Full-Stack Application Architect
-```
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+### **Progress Tracker**
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" />
+<br><strong>Languages</strong>
+<br>Python • Java • C++ • JavaScript
+<br><sub>Building proficiency</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" />
+<br><strong>Problem Solving</strong>
+<br>150+ Problems Solved
+<br><sub>LeetCode • HackerRank</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" />
+<br><strong>Projects</strong>
+<br>15+ Projects Built
+<br><sub>Web • AI • Algorithms</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" />
+<br><strong>Learning</strong>
+<br>Daily Coding Practice
+<br><sub>Continuous improvement</sub>
+</td>
+</tr>
+</table>
 
 <img src="https://github-profile-trophy.vercel.app/?username=mohamedalrashadi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 
@@ -222,92 +264,196 @@ const engineer = {
 
 ---
 
-## 📚 **Continuous Innovation**
-
-```yaml
-Research & Development:
-  - Advanced Machine Learning architectures
-  - Zero-Trust Security frameworks
-  - Serverless architectures and edge computing
-  - Real-time data processing systems
-
-Industry Engagement:
-  - Technical blog writing and conference speaking
-  - Open-source project maintenance
-  - Mentoring aspiring developers
-  - Contributing to cutting-edge research
-```
-
----
-
-## 💡 **Engineering Philosophy**
+## 📚 **2025 Learning Goals**
 
 <div align="center">
 
-> *"Great software is not built, it's engineered. Every line matters. Every decision counts."*
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce4ec2d36.gif" width="400">
 
-### Core Principles
+</div>
 
-```typescript
-const principles = {
-    code: "Clean, maintainable, and self-documenting",
-    architecture: "Scalable, resilient, and future-proof",
-    security: "Zero-trust, defense-in-depth, secure-by-design",
-    performance: "Optimized, monitored, continuously improved",
-    collaboration: "Open communication, knowledge sharing, team growth"
-};
+```yaml
+Programming Mastery:
+  ✓ Complete 300+ coding challenges across platforms
+  ✓ Master Data Structures & Algorithms fundamentals
+  ✓ Build 20+ meaningful projects showcasing different skills
+  ✓ Contribute to open-source repositories
+
+Web Development:
+  ✓ Create 10 responsive, interactive web applications
+  ✓ Master React and modern frontend frameworks
+  ✓ Build full-stack applications with databases
+  ✓ Learn deployment and cloud hosting
+
+AI & Machine Learning:
+  ✓ Complete comprehensive ML/AI courses
+  ✓ Build 5 AI projects (classification, NLP, computer vision)
+  ✓ Understand neural networks and deep learning
+  ✓ Work with real-world datasets
+
+Cybersecurity:
+  ✓ Study OWASP Top 10 and common vulnerabilities
+  ✓ Learn penetration testing fundamentals
+  ✓ Practice secure coding in all projects
+  ✓ Explore ethical hacking tools and techniques
+
+Professional Growth:
+  ✓ Build strong GitHub portfolio
+  ✓ Network with developers and join tech communities
+  ✓ Write technical blog posts
+  ✓ Participate in hackathons and coding competitions
 ```
 
-**Build with precision. Engineer with purpose. Deploy with confidence.**
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
 
 ---
 
-## 🤝 **Professional Network**
+## 💡 **My Philosophy**
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41fb-b5f0-881da31b996a.gif" width="400">
+
+<br><br>
+
+> *"Every expert was once a beginner who never gave up."*
+
+<br>
+
+### 🎯 **Core Beliefs**
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" />
+<br><br>
+<strong>Learn by Building</strong>
+<br><sub>Theory meets practice</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" />
+<br><br>
+<strong>Consistency Over Intensity</strong>
+<br><sub>Daily progress compounds</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100" />
+<br><br>
+<strong>Share Knowledge</strong>
+<br><sub>Teaching reinforces learning</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+```diff
++ Start Simple → Practice Daily → Build Projects → Never Stop Learning
+```
+
+<br>
+
+**"Code with purpose. Learn with passion. Build with impact."**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
+
+</div>
+
+---
+
+## 🤝 **Let's Connect**
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+
+<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedalrashadi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-id)
 
-**Available For:**
+<br>
 
-💼 **Enterprise Consulting** • 🚀 **Technical Architecture** • 🎤 **Speaking Engagements**  
-👥 **Team Leadership** • 🔬 **Research Collaboration** • 📝 **Technical Writing**
+**I'm Open To:**
+
+<table>
+<tr>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50" />
+<br><strong>Collaboration</strong>
+<br><sub>On projects & ideas</sub>
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50" />
+<br><strong>Learning</strong>
+<br><sub>Together & sharing</sub>
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122003-15d9e99d-123b-442e-bd2e-5f2fe5d3a69c.png" width="50" />
+<br><strong>Networking</strong>
+<br><sub>Connect & grow</sub>
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-afb4-aaf6e3ad971d.png" width="50" />
+<br><strong>Discussion</strong>
+<br><sub>Tech & innovation</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📈 **Development Activity**
+## 📈 **Coding Activity**
 
 <div align="center">
 
-### 💭 **Engineering Wisdom**
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+<br><br>
+
+### 💭 **Daily Inspiration**
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
+<br>
 
 ### 📊 **Contribution Heatmap**
 
 <img src="https://ghchart.rshah.org/58A6FF/mohamedalrashadi" alt="Contribution Graph" />
 
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
 </div>
 
 ---
 
 <div align="center">
 
-### 🎯 **"Engineering Excellence Through Continuous Innovation"**
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400">
 
-**⭐ Explore my repositories** • **🔔 Follow for cutting-edge solutions** • **💬 Let's architect the future**
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Engineering+Tomorrow's+Solutions&fontSize=30&fontColor=fff&animation=twinkling" />
+### 🎯 **"Building the Future, One Line of Code at a Time"**
+
+<br>
+
+**⭐ Star my repos if you find them useful**  
+**🔄 Follow to see my learning journey**  
+**💬 Let's connect and grow together**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=70" />
 
 </div>
 
@@ -317,4 +463,10 @@ const principles = {
 
 ---
 
-> *"Code is poetry. Architecture is art. Engineering is mastery."*
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+
+> *"Learn, Build, Share, Repeat. The journey of growth never ends."*
+
+</div>
