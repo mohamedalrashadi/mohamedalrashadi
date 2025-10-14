@@ -94,7 +94,7 @@ class Engineer:
 ---
 
 <!-- 📊 REAL-TIME ANALYTICS ENGINE -->
-## 📊 **Real-Time Analytics Engine**
+## 📊 **Analytics Engine**
 
 <div align="center">
 
