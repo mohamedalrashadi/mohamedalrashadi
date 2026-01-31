@@ -48,12 +48,12 @@ I am a Software Engineering student at **Universiti Teknologi Malaysia (UTM) —
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedalrashadi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedalrashadi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedalrshadi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedalrshadi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedalrashadi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedalrshadi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -86,6 +86,6 @@ I am a Software Engineering student at **Universiti Teknologi Malaysia (UTM) —
 
 **"Learning today, building tomorrow"** 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohamedalrashadi&color=58A6FF&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=mohamedalrshadi&color=58A6FF&style=for-the-badge&label=Profile+Views)
 
 </div>
