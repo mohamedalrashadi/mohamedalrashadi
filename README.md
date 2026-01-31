@@ -48,12 +48,12 @@ I am a Software Engineering student at **Universiti Teknologi Malaysia (UTM) —
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedalrashadi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedalrashadi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedalrashadi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedalrashadi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedalrashadi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedalrashadi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 ---
@@ -66,6 +66,21 @@ I am a Software Engineering student at **Universiti Teknologi Malaysia (UTM) —
 [![Python Projects](https://img.shields.io/badge/Python_Projects-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/mohamedalrashadi/Python)
 [![C++ Projects](https://img.shields.io/badge/C++_Projects-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/mohamedalrashadi/Cpp)
 
+</div>
+
+<div align="center">
+  <a href="https://github.com/mohamedalrashadi/Java">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedalrashadi&repo=Java&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/mohamedalrashadi/Python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedalrashadi&repo=Python&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/mohamedalrashadi/Cpp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedalrashadi&repo=Cpp&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
 ---
