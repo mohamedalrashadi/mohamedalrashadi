@@ -17,38 +17,37 @@
 </p>
 
 ---
-## 👨‍💻 About Me
 
-fix this (class MohammedAlRashadi:
+## 👨‍💻 About Me
+```python ``
+class MohammedAlRashadi:
     def __init__(self):
         self.name = "Mohammed Al Rashadi"
-        self.location = "Malaysia 🇲🇾"
+        self.location = "Malaysia"
         self.education = "Software Engineering @ MJIIT - UTM"
         self.role = "Software Engineering Student"
         self.timezone = "UTC+08:00 (Kuala Lumpur)"
+
+
         
-      
+        
     def current_focus(self):
         return {
             "learning": ["Python", "Java", "C++", "JavaScript", "Databases"],
             "interests": ["AI & Machine Learning", "Web Development", "Security", "Clean Code"],
             "working_on": ["Building solid programming foundations", "Algorithm practice"],
             "goals_2026": [
-                "🎯 Master Data Structures & Algorithms",
-                "🚀 Build 10+ complete projects",
-                "🤝 Contribute to open source",
-                "📚 Learn modern web frameworks",
-                "🧠 Dive deeper into AI/ML"
+                "Master Data Structures & Algorithms",
+                "Build 10+ complete projects",
+                "Contribute to open source",
+                "Learn modern web frameworks",
+                "Dive deeper into AI/ML"
             ]
         }
     
     def get_quote(self):
-        return "Every expert was once a beginner. Keep coding, keep learning! 💻")
-
-
-## 👨‍💻 About Me
-```python
-```
+        return "Every expert was once a beginner. Keep coding, keep learning!"
+`
 
 ---
 
@@ -246,28 +245,28 @@ fix this (class MohammedAlRashadi:
 ---
 
 ## 🎯 Current Focus & Goals
-```javascript
+```javascript ```
 const goals2026 = {
     academic: {
         focus: "Master Software Engineering Fundamentals",
         courses: ["Data Structures", "Algorithms", "Database Systems", "Web Development"],
         target_gpa: "Maintain excellence in all courses"
     },
-    
+    ``  
     technical: {
         projects: "Build 10+ complete projects showcasing different technologies",
         languages: "Achieve proficiency in Python, Java, and C++",
         problem_solving: "Solve 100+ algorithm problems on LeetCode",
         web_dev: "Create full-stack web applications"
-    },
-    
+    }, 
+    `
     professional: {
         github: "Maintain consistent contribution streak",
         open_source: "Make first meaningful open source contributions",
         networking: "Connect with developers and tech community",
         portfolio: "Build impressive project portfolio"
     },
-    
+    ```
     learning: {
         ai_ml: "Start Machine Learning journey with Python",
         security: "Learn cybersecurity fundamentals",
@@ -276,10 +275,11 @@ const goals2026 = {
     }
 };
 
-console.log("Let's achieve these goals! 🚀");
+console.log("Let's achieve these goals!");
 ```
 
 ---
+```
 
 ## 📈 GitHub Activity
 
@@ -372,16 +372,6 @@ When I'm not writing code, you can find me:
 
 ---
 
-## 📊 Contribution Stats
-
-<div align="center">
-
-![Contribution Snake](https://raw.githubusercontent.com/mohamedalrashadi/mohamedalrashadi/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 🎯 2026 Progress Tracker
 
 <div align="center">
@@ -398,11 +388,11 @@ When I'm not writing code, you can find me:
 </div>
 
 ---
-
+``
 <div align="center">
 
 ### 🌟 My Coding Philosophy
-```typescript
+```typescript``
 interface CodingPhilosophy {
     mindset: string;
     approach: string;
@@ -420,9 +410,9 @@ const myPhilosophy: CodingPhilosophy = {
         "Problem Solving",
         "Never Stop Growing"
     ],
-    daily_habit: "Code, Learn, Repeat ♾️"
+    daily_habit: "Code, Learn, Repeat"
 };
-```
+``
 
 </div>
 
