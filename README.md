@@ -20,30 +20,28 @@
 
 ## 👨‍💻 About Me
 ```python
-class MohammedAlRashadi:
-    def __init__(self):
-        self.name = "Mohammed Al Rashadi"
-        self.location = "Malaysia"
-        self.education = "Software Engineering @ MJIIT - UTM"
-        self.role = "Software Engineering Student"
-        self.timezone = "UTC+08:00 (Kuala Lumpur)"
-        
-    def current_focus(self):
-        return {
-            "learning": ["Python", "Java", "C++", "JavaScript", "Databases"],
-            "interests": ["AI & Machine Learning", "Web Development", "Security", "Clean Code"],
-            "working_on": ["Building solid programming foundations", "Algorithm practice"],
-            "goals_2026": [
-                "Master Data Structures & Algorithms",
-                "Build 10+ complete projects",
-                "Contribute to open source",
-                "Learn modern web frameworks",
-                "Dive deeper into AI/ML"
-            ]
-        }
-    
-    def get_quote(self):
-        return "Every expert was once a beginner. Keep coding, keep learning!"
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohammed%20Al%20Rashadi&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</div>
+
+<h3 align="center">
+  Software Engineering Student @ MJIIT-UTM 🎓
+</h3>
+
+<h4 align="center">
+  Shipping code with Python, C++, and Java | Diving into AI, ML, security, and modern web tech 🚀
+</h4>
+
+<p align="center">
+  <a href="https://linkedin.com/in/mohamedalrashadi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:moalrashadi@gmail.com"><img src="https://img.shields.io/badge/Email-moalrashadi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=mohamedalrashadi&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="profile views" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+```python
 ```
 
 ---
