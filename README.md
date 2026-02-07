@@ -23,7 +23,7 @@
 class MohammedAlRashadi:
     def __init__(self):
         self.name = "Mohammed Al Rashadi"
-        self.location = "Malaysia 🇲🇾"
+        self.location = "Malaysia"
         self.education = "Software Engineering @ MJIIT - UTM"
         self.role = "Software Engineering Student"
         self.timezone = "UTC+08:00 (Kuala Lumpur)"
@@ -34,16 +34,16 @@ class MohammedAlRashadi:
             "interests": ["AI & Machine Learning", "Web Development", "Security", "Clean Code"],
             "working_on": ["Building solid programming foundations", "Algorithm practice"],
             "goals_2026": [
-                "🎯 Master Data Structures & Algorithms",
-                "🚀 Build 10+ complete projects",
-                "🤝 Contribute to open source",
-                "📚 Learn modern web frameworks",
-                "🧠 Dive deeper into AI/ML"
+                "Master Data Structures & Algorithms",
+                "Build 10+ complete projects",
+                "Contribute to open source",
+                "Learn modern web frameworks",
+                "Dive deeper into AI/ML"
             ]
         }
     
     def get_quote(self):
-        return "Every expert was once a beginner. Keep coding, keep learning! 💻"
+        return "Every expert was once a beginner. Keep coding, keep learning!"
 ```
 
 ---
