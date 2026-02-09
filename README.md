@@ -35,7 +35,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedalrashadi&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mohamedalrashadi&show_icons=true&theme=tokyonight&cache_seconds=86400" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedalrashadi&theme=tokyonight" width="48%" />
 </div>
 
