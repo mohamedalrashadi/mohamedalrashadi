@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <a href="mailto:moalrashadi@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/mohamedalrashadi">💼 LinkedIn</a> •
+  
+  <a href="https://www.linkedin.com/in/mohammedalrshadi/">💼 LinkedIn</a> •
   <a href="https://github.com/mohamedalrashadi">🐙 GitHub</a>
 </div>
 
