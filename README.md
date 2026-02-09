@@ -1,13 +1,21 @@
 <div align="center">
-  <h1>👋 Hi, I'm Mohammed Al Rashadi</h1>
-  <h3>Software Engineering Student @ MJIIT-UTM</h3>
-  <p>Building the future with Python, Java, C++ | Passionate about AI & Clean Code 🚀</p>
-</div>
 
-<div align="center">
-  
-  <a href="https://www.linkedin.com/in/mohammedalrshadi/">💼 LinkedIn</a> •
-  <a href="https://github.com/mohamedalrashadi">🐙 GitHub</a>
+  <h1>Hi, I'm Mohammed Al Rashadi 👋</h1>
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Software+Engineering+Student+%40+;Java+%7C+C%2B%2B+%7C+Python;Learning+AI+%26+Machine+Learning;Building+projects+and+improving+every+day"
+    alt="Typing SVG"
+  />
+
+  <br/><br/>
+
+  <a href="https://linkedin.com/in/mohamedalrashadi">
+    <img src="https://img.shields.io/badge/LinkedIn-mohamedalrashadi-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/mohamedalrashadi">
+    <img src="https://img.shields.io/badge/GitHub-mohamedalrashadi-black?style=for-the-badge&logo=github" />
+  </a>
+
 </div>
 
 ---
