@@ -35,18 +35,8 @@
 ## 📊 GitHub Stats
 
 
-<div align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mohamedalrashadi&show_icons=true&theme=tokyonight&cache_seconds=86400"
-    width="48%"
-    alt="Mohammed Al Rashadi's GitHub stats"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=mohamedalrashadi&theme=tokyonight"
-    width="48%"
-    alt="Mohammed Al Rashadi's GitHub streak"
-  />
-</div>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mohamedalrashadi&show_icons=true&theme=tokyonight&cache_seconds=86400&v=2)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=mohamedalrashadi&theme=tokyonight)
 
 
 
