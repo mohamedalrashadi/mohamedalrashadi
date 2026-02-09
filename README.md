@@ -66,7 +66,7 @@
 
 ## 📫 Get in Touch
 
-- **Email:** moalrashadi@gmail.com
+
 - **LinkedIn:** [Mohammed Al Rashadi](https://linkedin.com/in/mohamedalrashadi)
 - **GitHub:** [@mohamedalrashadi](https://github.com/mohamedalrashadi)
 
