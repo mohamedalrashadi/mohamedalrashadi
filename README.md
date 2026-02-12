@@ -9,7 +9,7 @@
 
   <br/><br/>
 
-  <a href="https://linkedin.com/in/mohamedalrashadi">
+  <a href="https://www.linkedin.com/in/mohammedalrshadi/">
     <img src="https://img.shields.io/badge/LinkedIn-mohamedalrashadi-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/mohamedalrashadi">
